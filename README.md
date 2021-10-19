@@ -1,4 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title=""documentario"", Discovery H e H 
-https://m3u9.ml/b/hls1/discoveryhomeihealth.m3u8?mu3zAQc9HC3GbwJq=4CzypfSI3pbhcXyPaqrWOA&3U1G7qaTxrPbalZnEx=1634695548
+https://edge-aws.aovivotv.xyz/hls/s:49.12.237.159/discoveryhomehealth_84582c1d_a2f328e747f70b4cc9aa9efbf4521e814ba04eb3/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjY4LjI0Ljk0IjtpOjE7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85NC4wLjQ2MDYuODEgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYzNDY2NzI5MDt9
+
+
