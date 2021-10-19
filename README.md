@@ -1,6 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title=""documentario"", Discovery H e H 
-https://edge-aws.aovivotv.xyz/hls/s:49.12.237.159/discoveryhomehealth_84582c1d_a2f328e747f70b4cc9aa9efbf4521e814ba04eb3/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjY4LjI0Ljk0IjtpOjE7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85NC4wLjQ2MDYuODEgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYzNDY2NzI5MDt9
+https://cdn.esporteone.com/HOMEHEALTHSD/video.m3u8?md5=7o-LV2cwuDpo225ixRxTIg&expires=1634671060
 
 
